@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bennyled
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML, CSS, JS, Angular, Firebase. 
-- I'm currently working on a picture gallery app
+- I'm currently working on an instagram clone.
 - 📫 How to reach me: benjamin.ledetzky@gmail.com 
 
 <!---
